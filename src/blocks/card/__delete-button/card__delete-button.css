@@ -12,6 +12,7 @@
     flex-shrink: 0;
     cursor: pointer;
     transition: opacity 0.5s;
+    display: none;
   }
   
   .card__delete-button:hover {
